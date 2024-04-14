@@ -1,2 +1,4 @@
-# React-Basics-Projects
-this repo is for my Basics react project to work with hooks and the react world :*0
+# Arkham - Powerfull Design Platform
+this repo is Pure Front End Template Design By MHAZ.
+
+this is just a test website all the copyright for all media is not mine :-) 
